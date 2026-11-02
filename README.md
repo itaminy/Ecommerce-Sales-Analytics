@@ -6,6 +6,12 @@
 
 Цель проекта — изучить динамику продаж, определить наиболее прибыльные товары и рынки, исследовать покупательское поведение и сегментировать клиентов с помощью RFM-анализа.
 
+## Power BI Dashboard
+
+Интерактивный дашборд с анализом выручки, заказов, стран, товаров и RFM-сегментов клиентов.
+
+Файл отчёта: [Ecommerce_Sales_Analytics.pbix](reports/Ecommerce_Sales_Analytics.pbix)
+
 ## Данные
 
 **Источник:** [UCI Machine Learning Repository — Online Retail](https://archive.ics.uci.edu/dataset/352/online+retail)
