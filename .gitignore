@@ -1,7 +1,6 @@
 
 # Исходные и обработанные данные
 data/raw/
-data/processed/
 
 # Python
 __pycache__/
